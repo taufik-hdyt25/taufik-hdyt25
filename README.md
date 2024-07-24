@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **taufikhdyt2599@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1bpuhbzxNVxU16kPKioDWmzIvaZ8FtJZE](https://drive.google.com/drive/folders/1bpuhbzxNVxU16kPKioDWmzIvaZ8FtJZE)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1I-4UtS2GKR2bN40tRqh3YEwSP9tTEdRt/view?usp=sharing](https://drive.google.com/file/d/1I-4UtS2GKR2bN40tRqh3YEwSP9tTEdRt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
