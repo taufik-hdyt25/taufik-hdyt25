@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taufik Hidayat</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 👨‍💻 All of my projects are available at [http://taufikhdyt.vercel.app](http://taufikhdyt.vercel.app)
+- 👨‍💻 All of my projects are available at [http://taufikhdyt.vercel.app](http://taufikhdyt.my.id)
 
 - 💬 Ask me about **React Js, React Native, Next Js, Express Js**
 
@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/taufikhdyt2519" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taufikhdyt2519" height="30" width="40" /></a>
-<a href="https://instagram.com/taufikhdyt2599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taufikhdyt2599" height="30" width="40" /></a>
+<a href="https://instagram.com/taufikhdytt19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taufikhdyt2599" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
