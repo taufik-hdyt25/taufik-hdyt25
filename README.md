@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taufik Hidayat</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 👨‍💻 All of my projects are available at [http://taufikhdyt.my.id](http://taufikh.my.id)
+- 👨‍💻 All of my projects are available at [http://taufikh.my.id](http://taufikh.my.id)
 
 - 💬 Ask me about **React Js, React Native, Next Js, Express Js**
 
